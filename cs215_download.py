@@ -1,5 +1,3 @@
-# Downloads newly added course pdf files from Ajit sir's CS 215 coursepage.
-
 import mechanize
 import os
 
