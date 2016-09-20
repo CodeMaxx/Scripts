@@ -1,5 +1,8 @@
 mkdir lab$1;
 mkdir lab$1/resources;
+mkdir lab$1/outlab;
+mkdir lab$1/inlab;
+touch lab$1/outlab/readme.txt;
 cd lab$1/resources;
 wget https://www.cse.iitb.ac.in/~sharat/current/cs251/Assign/Lab0$1/inlab.pdf;
 wget https://www.cse.iitb.ac.in/~sharat/current/cs251/Assign/Lab0$1/outlab.pdf;
