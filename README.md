@@ -13,3 +13,4 @@ Quick Links:
 [Google Docs Download](https://github.com/CodeMaxx/Scripts/blob/master/google_docs.py) - Download google docs directly using the url.<br>
 Usage - `python google_docs.py <Google_Doc_URL>`
 
+[Mac Pomodoro](https://github.com/CodeMaxx/mac-pomodoro) - Manage time well while working on your Mac!
