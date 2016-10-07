@@ -1,3 +1,5 @@
+#! /bin/bash
+
 mkdir lab$1;
 mkdir lab$1/resources;
 mkdir lab$1/outlab;
