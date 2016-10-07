@@ -1,3 +1,7 @@
+#! /usr/local/bin/python
+
+# Downloads newly added pdf course files from Akshay sir's CS 207 coursepage.
+
 import mechanize
 import os
 
