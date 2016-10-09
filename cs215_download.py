@@ -1,3 +1,5 @@
+#! /usr/local/bin/python
+
 import mechanize
 import os
 
