@@ -14,3 +14,5 @@ Quick Links:
 Usage - `python google_docs.py <Google_Doc_URL>`
 
 [Mac Pomodoro](https://github.com/CodeMaxx/mac-pomodoro) - Manage time well while working on your Mac!
+
+[Dtag_All](https://github.com/CodeMaxx/Scripts/blob/master/dtag_all.sh) - Apply [dtags](https://github.com/joowani/dtags) to all subdirectories.
